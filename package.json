@@ -1,0 +1,23 @@
+{
+  "name": "node_practice",
+  "version": "1.0.0",
+  "description": "practice purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chandu",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.4.0"
+  },
+  "keywords": [
+    "practice",
+    "for",
+    "npm"
+  ],
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security"
+  }
+}
